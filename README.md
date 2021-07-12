@@ -2,6 +2,8 @@
 
 Tokyonight Color Scheme for Spacemacs inspired by [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
+![tokyonight spacemacs](https://raw.githubusercontent.com/mabdh/tokyonight-spacemacs/master/img/tokyonight-spacemacs.png)
+
 ```
 (custom-set-variables
  '(spacemacs-theme-custom-colors
